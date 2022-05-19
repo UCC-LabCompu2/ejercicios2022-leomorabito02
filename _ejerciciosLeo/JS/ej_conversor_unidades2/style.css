@@ -5,7 +5,7 @@ h1{
 }
 
 .body-num{
-    background: url("images/fondo_numeros.jpg");
+    background: url("../../../Ejercicios-JavaScript/images/fondo_numeros.jpg");
     background-size: cover;
 }
 
